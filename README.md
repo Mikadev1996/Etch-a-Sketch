@@ -1,2 +1,4 @@
 # Etch-a-Sketch
-From The Odin Project
+Working through The Odin Project
+via https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/etch-a-sketch-project
+
